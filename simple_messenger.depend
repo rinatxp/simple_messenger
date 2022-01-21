@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1642782169 source:/root/projects/simple_messenger/main.c
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/ip.h>
+	<netinet/udp.h>
+	<arpa/inet.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<netdb.h>
+	<fcntl.h>
+	<ifaddrs.h>
+	<ctype.h>
+	<pthread.h>
+	<termios.h>
+
